@@ -41,6 +41,12 @@ Google API Key:
 
 
 
+
+
+
+
+
+
 Using different channels:
 
   To use a different channel, first locate the Info section near the top of the script.py file
