@@ -1,0 +1,2 @@
+script_full_path=$(dirname "$0");
+python3 "$script_full_path/script.py"
